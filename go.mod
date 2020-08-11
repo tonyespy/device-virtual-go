@@ -21,4 +21,6 @@ require (
 	modernc.org/zappy v1.0.0 // indirect
 )
 
+replace	github.com/edgexfoundry/device-sdk-go v1.2.3 => github.com/tonyespy/device-sdk-go v1.2.3-awe
+
 go 1.13
